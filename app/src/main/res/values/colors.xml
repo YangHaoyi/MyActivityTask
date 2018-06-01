@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorStandard">#FFFFCC</color>
+    <color name="colorSingleTop">#CCE5FF</color>
+    <color name="colorSingleTask">#E5CCFF</color>
+    <color name="colorText">#303F9F</color>
+    <color name="colorTask">#FF4081</color>
+    <color name="colorButtonUnSelect">#FFFFFF</color>
+    <color name="colorButtonSelect">#F2F2F2</color>
+    <color name="colorCutLine">#E2E2E2</color>
+
+</resources>
